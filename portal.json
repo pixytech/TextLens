@@ -1,0 +1,9 @@
+{
+  "title": "TextLens",
+  "description": "Browser-only OCR.",
+  "icon": "TL",
+  "color": "#10b981",
+  "order": 23,
+  "access": "public",
+  "url": "https://pixytech.github.io/TextLens/"
+}
